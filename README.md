@@ -40,7 +40,9 @@ Manage user relationships to enable following and followers:
     - `Followed ID`: User being followed.
 
 -----------------------
-Entity-Relationship Diagram (ERD)
+
+## Entity-Relationship Diagram (ERD)
+
 ![alt text](<ERD ig.png>)
 
 ## The SQL File 
